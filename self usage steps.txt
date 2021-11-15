@@ -1,0 +1,8 @@
+Step 1: Take the 'self usage.py's code
+Step 2: Remove the comments wanted
+Step 3: Add these in the program which you use it in:
+1. Before calling, set an 'n' variable, as this will be used. If needed to be changed, inside 'def factorial(n):' replace the 'n' with anything else.
+Also, in the 'for x in range(1, n+1):' line, change 'n' to the previous variable you added. This will be what is sent to the function.
+2. When calling, make sure to set up a place for it to return the result to. So, if I want to return it to an answer variable outside,
+answer = factorial(n)
+Step 4: Enjoy!
